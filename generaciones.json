@@ -4,37 +4,37 @@
       "nombre": "GenAlpha",
       "edadinicio": 0,
       "edadfin": 6,
-      "imagen": ""
+      "imagen": "https://si0sgs.github.io/apiJSON/img/GenAlpha.png"
     },
     {
       "nombre": "GenZ",
       "edadinicio": 7,
       "edadfin": 21,
-      "imagen": ""
+      "imagen": "https://si0sgs.github.io/apiJSON/img/GenZ.png"
     },
     {
       "nombre": "GenY",
       "edadinicio": 22,
       "edadfin": 36,
-      "imagen": ""
+      "imagen": "https://si0sgs.github.io/apiJSON/img/GenY.png"
     },
     {
       "nombre": "GenX",
       "edadinicio": 37,
       "edadfin": 51,
-      "imagen": ""
+      "imagen": "https://si0sgs.github.io/apiJSON/img/GenX.png"
     },
     {
       "nombre": "BabbyBoomers",
       "edadinicio": 52,
       "edadfin": 70,
-      "imagen": ""
+      "imagen": "https://si0sgs.github.io/apiJSON/img/BabbyBoomers.png"
     },
     {
-      "nombre": "•	Builders",
+      "nombre": "Builders",
       "edadinicio": 71,
       "edadfin": 120,
-      "imagen": ""
+      "imagen": "https://si0sgs.github.io/apiJSON/img/Builders.png"
     }	
   ]
 }
