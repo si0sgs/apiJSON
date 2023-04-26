@@ -1,0 +1,40 @@
+{
+  "generaciones": [
+    {
+      "nombre": "GenAlpha",
+      "edadinicio": 0,
+      "edadfin": 6,
+      "imagen": ""
+    },
+    {
+      "nombre": "GenZ",
+      "edadinicio": 7,
+      "edadfin": 21,
+      "imagen": ""
+    },
+    {
+      "nombre": "GenY",
+      "edadinicio": 22,
+      "edadfin": 36,
+      "imagen": ""
+    },
+    {
+      "nombre": "GenX",
+      "edadinicio": 37,
+      "edadfin": 51,
+      "imagen": ""
+    },
+    {
+      "nombre": "BabbyBoomers",
+      "edadinicio": 52,
+      "edadfin": 70,
+      "imagen": ""
+    },
+    {
+      "nombre": "•	Builders",
+      "edadinicio": 71,
+      "edadfin": 120,
+      "imagen": ""
+    }	
+  ]
+}
