@@ -16,13 +16,13 @@
       "nombre": "GenY",
       "edadinicio": 22,
       "edadfin": 36,
-      "imagen": "https://si0sgs.github.io/apiJSON/img/GenY.png"
+      "imagen": "https://si0sgs.github.io/apiJSON/img/geny.png"
     },
     {
       "nombre": "GenX",
       "edadinicio": 37,
       "edadfin": 51,
-      "imagen": "https://si0sgs.github.io/apiJSON/img/GenX.png"
+      "imagen": "https://si0sgs.github.io/apiJSON/img/genx.png"
     },
     {
       "nombre": "BabbyBoomers",
